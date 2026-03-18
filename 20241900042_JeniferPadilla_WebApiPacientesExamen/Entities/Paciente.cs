@@ -1,4 +1,4 @@
-﻿namespace _20241900042_JENIFER_PADILLA_API_PACIENTES.Entities
+﻿namespace _20241900042_JeniferPadilla_WebApiPacientesExamen.Entities
 {
     public class Paciente
     {
